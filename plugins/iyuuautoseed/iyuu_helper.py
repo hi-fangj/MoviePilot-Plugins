@@ -7,7 +7,7 @@ from app.utils.http import RequestUtils
 
 class IyuuHelper(object):
     _version = "2.0.0"
-    _api_base = "https://iyuu.fangj.site:4430/%s"
+    _api_base = "https://iyuuapi.fangj.site:4430/%s"
     _sites = {}
     _token = None
 
